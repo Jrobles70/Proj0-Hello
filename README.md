@@ -1,40 +1,30 @@
-# Proj0-Hello
-Trivial project to exercise version control, turn-in, and other
-mechanisms.
+# Project 0 Hello World
 
-## Instructions:
+This project uses a python script to read a credentials file and print the message given.
 
-- Start by forking this repository on github, then cloning onto your
-  development machine. 
+## Prerequisites
 
-- Copy the credentials-skel.ini file to credentials.ini and fill in
-  appropriately. 
+* Python 3 
+* a credentials.ini file
 
-- Modify the program "hello.py" so that it prints "Hello
-  world". (Nothing more and nothing less.)  Note that you do NOT do
-  this by changing the hello.py source file.  Rather, the message is a
-  configuration constant from the credentials.ini file; fix it there. 
+### Getting Started
 
-- Replace these instructions with a proper README including the
-   author, contact address, and a brief description of what the 
-   software does.
+Create a credentials.ini and paste in these lines filling in the appropriate information
 
-- Test your program locally;  revise and re-test as needed.  (How long
-  can it take, really?)
+'''
+[DEFAULT] 
+author= Your Name Here
+repo=https://github.com/your_repository_url
+message=Replace this line with the correct message
+'''
 
-- Commit your changes.  You will need to use "git add" on your files
-   hello.py and README.md, but *not* on credentials.py, because that
-   file does not belong on github.  (In later projects it will contain
-   confidential information, like access keys and passwords for web
-   services.)  Your changes must be "pushed" to your public repository
-   on github so that the auto-checker can "clone" them back to the
-   grading machine.
+## How To
 
-- Test your code with the auto-checker.  Revise and push changes
-   as needed.
+Open a console in the project folder and enter the 
 
-- Turn in with Canvas.  The file you turn in is credentials.ini.  We
-   use the repository link in your credentials.ini to access the rest,
-   just like the auto-checker.
 
+
+## Authors
+
+* **Justin Robles** - Jrobles@uoregon.edu
 
