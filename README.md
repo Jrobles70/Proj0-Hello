@@ -11,12 +11,12 @@ This project uses a python script to read a credentials file and print the messa
 
 Create a credentials.ini and paste in these lines filling in the appropriate information
 
-'''
+```
 [DEFAULT] 
 author= Your Name Here
 repo=https://github.com/your_repository_url
 message=Replace this line with the correct message
-'''
+```
 
 ## How To
 
