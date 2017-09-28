@@ -1,6 +1,6 @@
 # Project 0 Hello World
 
-This project uses a python script to read a credentials file and print the message given.
+This project uses python to read a credentials file and print the constant message.
 
 ## Prerequisites
 
@@ -20,8 +20,11 @@ message=Replace this line with the correct message
 
 ## How To
 
-Open a console in the project folder and enter the 
+###Command Line
 
+```
+python hello.py
+```
 
 
 ## Authors
