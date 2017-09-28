@@ -20,7 +20,7 @@ message=Replace this line with the correct message
 
 ## How To
 
-###Command Line
+### Command Line
 
 ```
 python hello.py
