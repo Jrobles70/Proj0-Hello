@@ -5,7 +5,7 @@ This project uses python to read a credentials file and print the constant messa
 ## Prerequisites
 
 * Python 3 
-* a credentials.ini file
+* a credentials.ini file locatated in the hello folder
 
 ### Getting Started
 
